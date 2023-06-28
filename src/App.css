@@ -1,0 +1,11 @@
+em {
+  background-color: yellow;
+}
+.highlight-result {
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.hit-text {
+  white-space: normal;
+}

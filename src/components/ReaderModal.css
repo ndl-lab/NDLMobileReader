@@ -1,0 +1,12 @@
+.page-number {
+  position: absolute;
+  left: 5px;
+  top: 100px;
+  display: inline-block;
+  color: #ffffff; /* 文字の色 */
+  font-size: 18pt; /* 文字のサイズ */
+  text-shadow: 1px 1px #000, -1px 1px #000, -1px -1px #000,
+    1px -1px #000, 1px 0px #000, 0px 1px #000, -1px 0px #000,
+    0px -1px #000;
+  z-index: 99;
+}
