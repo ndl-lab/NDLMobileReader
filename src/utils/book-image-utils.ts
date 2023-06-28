@@ -97,7 +97,7 @@ export function buildPages(
   bookImageInfo: BookData,
   leftOpen: boolean
 ) {
-  let pages: Page[] = [];
+  const pages: Page[] = [];
   const path = 'https://www.dl.ndl.go.jp/api/iiif';
   for (let i = 1; i <= bookImageInfo.pages; i++) {
     const indexStr = String(i).padStart(7, '0');
