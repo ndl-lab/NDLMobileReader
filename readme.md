@@ -4,7 +4,7 @@
 
 ## 概要
 
-モバイルデバイス向け UI フレームワーク[Ionic](https://ionicframework.com/)を使って構築した、国立国会図書館デジタルコレクションのためのモバイルリーダーです。資料検索やページ分割には同館の[次世代デジタルライブラリー API](https://lab.ndl.go.jp/service/tsugidigi/apiinfo)を使用しています。
+モバイルデバイス向け UI フレームワーク[Ionic](https://ionicframework.com/)を使って構築した、国立国会図書館デジタルコレクションのIIIF APIと次世代デジタルライブラリーAPIを用いたモバイルリーダーです。資料検索やページ分割には[次世代デジタルライブラリー API](https://lab.ndl.go.jp/service/tsugidigi/apiinfo)を使用しています。
 
 ## デモページ
 
